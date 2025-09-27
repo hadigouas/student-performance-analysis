@@ -1,0 +1,30 @@
+# Python virtual environment
+env/
+venv/
+*.venv
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Generated output files
+# The pipeline scripts will regenerate these files.
+output/
+
+# Large media and presentation files
+*.mp4
+*.gif
+*.pptx
+*.pdf
+*.zip
+
+# IDE and OS specific files
+.vscode/
+.idea/
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Duplicate project folder
+projet_final_brainerX_hadigouas/
